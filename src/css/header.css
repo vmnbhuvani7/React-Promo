@@ -1,0 +1,27 @@
+.main-header-div {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    position: static;
+    top: 0;
+    z-index: 9999;
+}
+
+.header-icon {
+    font-size: 20px;
+    margin: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.header-title {
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+
+.active-header {
+    border-bottom: 3px solid red;
+    margin-bottom: 0px;
+}

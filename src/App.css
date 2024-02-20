@@ -1,0 +1,7 @@
+body, p, div {
+  font-size: 14px;
+}
+
+.ant-divider  {
+  margin: 0px !important;
+}
